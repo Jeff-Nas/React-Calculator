@@ -12,7 +12,10 @@ Este projeto é uma **calculadora funcional com histórico de operações**, des
 
 > "O objetivo deste projeto foi consolidar conceitos fundamentais do React, como gerenciamento de estado, efeitos colaterais, compartilhamento de dados entre componentes e persistência de dados na local storage."
 
----
+## 🚀 Deploy
+
+🔗 Teste aqui a calculadora:  
+https://react-calculator-topaz-iota.vercel.app/
 
 ## 🧠 O que eu aprendi
 
